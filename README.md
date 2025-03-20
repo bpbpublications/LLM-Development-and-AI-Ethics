@@ -1,2 +1,2 @@
-# Safeguarding the AI Revolution
- Safeguarding the AI Revolution, by BPB Publications
+# LLM Development and AI Ethics
+ LLM Development and AI Ethics, by BPB Publications
